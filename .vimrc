@@ -4,7 +4,6 @@ set number number
 
 
 set nobackup 
-set nowrap
 
 
 set incsearch
